@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(29, 28, 28);
+}
+.coracao{
+    justify-content: space-between;
+    text-align: center;
+    
+}
+.botaoinicial{
+    padding: 20px;
+    align-items: center;
+}
+button{
+    background-color: rgb(228, 34, 34);
+    color: white;
+    border-radius: 10px;
+    width: 400px;
+    height: 30px;
+}
